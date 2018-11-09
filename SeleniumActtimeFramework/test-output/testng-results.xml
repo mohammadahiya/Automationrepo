@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22158" started-at="2018-11-08T15:33:55Z" finished-at="2018-11-08T15:34:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22158" started-at="2018-11-08T15:33:55Z" finished-at="2018-11-08T15:34:18Z">
+      <class name="com.actitime.customerTest.CustomerTest">
+        <test-method status="PASS" signature="CreatetcustomerTest()[pri:0, instance:com.actitime.customerTest.CustomerTest@28d25987]" name="CreatetcustomerTest" duration-ms="22118" started-at="2018-11-08T21:03:55Z" finished-at="2018-11-08T21:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatetcustomerTest -->
+        <test-method status="PASS" signature="DeleteCustomerTest()[pri:0, instance:com.actitime.customerTest.CustomerTest@28d25987]" name="DeleteCustomerTest" duration-ms="1" started-at="2018-11-08T21:04:18Z" finished-at="2018-11-08T21:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomerTest -->
+        <test-method status="PASS" signature="EditCustomerTest()[pri:0, instance:com.actitime.customerTest.CustomerTest@28d25987]" name="EditCustomerTest" duration-ms="3" started-at="2018-11-08T21:04:18Z" finished-at="2018-11-08T21:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditCustomerTest -->
+      </class> <!-- com.actitime.customerTest.CustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
